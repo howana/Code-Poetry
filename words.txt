@@ -1,0 +1,3125 @@
+Introducing
+Microsoft, Windows 95
+For the Microsoft Windows 95 Operating System
+For product support, contact the manufacturer of your PC .
+Refer to the documentation that came with your PC for the
+product-support telephone number .
+Microsoft Corporation
+Information in this document is subject to change without notice . Companies, names, and data used in examples are fictitious
+unless otherwise noted . No part of this document may be reproduced or transmitted in any form or by any means, electronic or
+mechanical, for any purpose, without the express written permission of Microsoft Corporation . Microsoft may have patents or
+pending patent applications, trademarks, copyrights, or other intellectual property rights covering subject matter in this document .
+The furnishing of this document does not give you license to these patents, trademarks, copyrights, or other intellectual property
+except as expressly provided in any written license agreement from Microsoft .
+O 1981 - 1995 Microsoft Corporation . All rights reserved .
+Arial and Times New Roman fonts . Copyright O 1991 The Monotype Corporation . All rights reserved .
+Disk Defragmenter O 1992 - 1995 Microsoft Corporation . Portions © 1988 - 1992 Symantec Corporation .
+Outside In Viewer Technology . Copyright © 1991 - 1994 Systems Compatibility .
+Microsoft, DriveSpace, MS, MS-DOS, Windows, Windows NT, and the Windows logo are either registered trademarks or
+trademarks of Microsoft Corporation in the United States and/or other countries .
+The Symbol bitmap fonts provided with Windows 95 are based on the CG Times font, a product of AGFA Compugraphic
+Division of Agfa Corporation .
+Backup was developed for Microsoft by Colorado Memory Systems, Inc ., a division of Hewlett-Packard Company .
+CompuServe is a registered trademark of CompuServe, Inc .
+GEnie is a trademark of General Electric Corporation .
+HyperTerminal was developed for Microsoft by and is a trademark of Hilgraeve, Inc .
+Aria] and Times New Roman are registered trademarks of The Monotype Corporation .
+Novell and NetWare are registered trademarks of Novell, Inc .
+Document No. X03-50321
+Printing ID . 0000005475-TATUNG
+Printed in Taiwan
+Contents
+Welcome v
+Where to find the information you need vi
+What's on your Windows 95 screen viii
+If you've used Windows before . . . ix
+What's new in Windows 95? xii
+Backing up your old files xiii
+Setting up Windows 95 xiv
+The Basics 1
+Getting Started with Windows 95 2
+Starting and Quitting a Program 5
+Opening a Document 8
+Getting Help 10
+Finding Something on Your Computer 13
+Changing System Settings 14
+Starting a Program by Using the Run Command 15
+Shutting Down Your Computer 17
+Beyond the Basics 19
+Seeing What's on Your Computer 20
+Organizing Files and Folders 24
+Working Within Documents 28
+Printing 32
+Installing Software 35
+Installing Hardware 36
+Using Windows Efficiently 37
+ill
+iv
+	
+Contents
+Introducing Networks 43
+Using the Network 44
+Setting Up Your Computer to Use a Network 46
+Sharing Your Folders or Printers 50
+Using Resources Located on Other Computers 55
+Connecting to the Internet 58
+The Possibilities 59
+Having Fun 60
+Maintaining Your System 62
+Optimizing Your Computer 63
+Communicating with the World 64
+Making Your Work Mobile 66
+Using Other Programs 67
+If a Windows Component Isn't Available 68
+Appendixes 69
+Visual Glossary 70
+Keyboard Shortcuts 75
+Accessibility for People with Disabilities 78
+Troubleshooting 81
+Index 85
+Welcome
+Welcome to the Microsoft, Windows® 95 operating system .
+With Windows 95, all the things you do now will be easier
+and faster, and what you've always wanted to do is now
+possible.
+This book introduces you to Windows and gets you up and
+running quickly . It shows you how to do the most common
+tasks, provides you with tips, and points you to some of the
+fun and exciting new features that come with Windows .
+If you want to explore Windows in more depth or learn about
+some of the more technical aspects of Windows, the first topic
+in this section, "Where to Find the Information You Need,"
+points you to other sources of information .
+V
+vi Welcome
+Where to find the information you need
+Help on procedures
+Help is the primary source of information about
+Windows. You can find common tasks in the
+Contents and more in the Index, and search for
+text by using the Find tab . To start Help, click
+the Start button, and then click Help .
+For more information about Help, see
+Chapter 1, "The Basics ."
+Help on a specific item
+If a window contains a question-mark button,
+you can see a description of any item in the
+window : Just click the button, and then click
+the item .
+Introducing Microsoft Windows 95 (this book)
+The Introducing Microsoft Windows 95 book contains common tasks ;
+visual overviews; a catalog of Windows features ; and an illustrated
+glossary of basic terms, including mouse basics .
+Resource Kit
+The Microsoft Windows 95 Resource Kit contains technical information
+about Windows 95, plus information for network administrators . The
+Resource Kit is available wherever computer books or software are sold .
+WinNews
+For more technical information about Windows,
+you can read WinNews via The Microsoft
+Network and most major online services and
+networks. You can also receive the WinNews
+Electronic Newsletter biweekly, via e-mail . For
+more information, see the online document
+Winnews .txt provided with Windows .
+Welcome
+Windows 95 Online Tour
+The Windows 95 Tour quickly teaches you a few
+basic skills and gives you the opportunity to
+practice them . You can start the Tour by
+double-clicking "Ten minutes to using Windows"
+in the Help Contents . (This may not be available
+for all systems .)
+VII
+viii
+	
+Welcome
+What's on your Windows 95 screen
+Depending on how your computer is set up, various items appear on your
+desktop when you start Windows. Here are four important ones .
+Start button
+You can click the Start button on the taskbar to start a program, open
+a document, change system settings, get Help, find items on your
+computer, and more . For more information, see Chapter l, "The Basics ."
+Recycle Bin
+The Recycle Bin is a temporary storage place for deleted files . You can
+use it to retrieve files deleted in error . For more information, see
+Chapter 2, "Beyond the Basics ."
+Network Neighborhood
+Double-click this icon to see available resources on the network, if your
+computer is or can be connected to one . For more information, see
+Chapter 3, "Introducing Networks ."
+My Computer
+Double-click this icon to see your computer's contents and manage your
+files . For more information, see Chapter 2, "Beyond the Basics ."
+If you've used Windows before . . .
+Take a look at how some familiar elements of Microsoft
+Windows version 3 .l have changed for Windows 95 .
+Program Manager
+You can find your old program groups by clicking the Start button and
+then pointing to Programs . Your groups appear as folders on the
+Programs menu .
+File Manager
+To manage your files, you click the Start button, point to Programs, and
+then click Windows Explorer . Your directories appear as folders .
+Welcome
+	
+ix
+8 MS-DOS Prompt
+To open an MS-DOS,, window, you click the Start button, point to
+Programs, and then click MS-DOS Prompt .
+' ®
+	
+Control Panel
+To open Control Panel, you click the Start button, point to Settings, and
+then click Control Panel .
+Print Manager
+To set up a printer or look at information about documents you're
+printing, you click the Start button, point to Settings, and then click
+Printers .
+x
+	
+Welcome
+Run command
+To use the Run command, you click the Start button, and then click Run .
+You can run MS-DOS-based and Windows-based programs, open
+folders, and connect to network resources by using Run .
+Task switching
+You can use the taskbar to switch between open windows. Just click the
+button on it that represents the window you want to switch to . You can
+also use ALT+TAB, just as you did in earlier versions of Windows .
+Close button
+To close a window, you click the Close button in the upper-right corner
+of the window, next to the Minimize and Maximize buttons .
+Welcome
+	
+xi
+xii
+	
+Welcome
+What's new in Windows 95?
+Windows 95 offers many new, exciting features, in addition to
+improvements to many features you may be familiar with from earlier
+versions of Windows . This section mentions just a few of these features .
+For a complete listing, look up "what's new" in the Help Index .
+New improved interface Windows now features the Start button and
+taskbar. Click the Start button to quickly open programs, find documents,
+and use system tools . Use the taskbar to switch between programs as
+easily as changing channels on your TV .
+Windows Explorer Windows Explorer is a powerful way to browse
+through and manage your files, drives, and network connections .
+Long filenames Windows now supports long filenames to make your
+files easier to organize and find .
+Improved game and multimedia support You will enjoy the faster video
+capability for games, enhanced support for MS-DOS-based games, and
+improved performance for playing video and sound files .
+Plug and Play hardware compatibility You can just insert the card for
+your Plug and Play hardware in your computer . When you turn on your
+computer, Windows recognizes and sets up your hardware for you
+automatically .
+32-bit preemptive multitasking Windows now lets you use many
+programs at once: do more in less time!
+Microsoft Exchange Use Microsoft Exchange to view and work with all
+types of electronic communications, including e-mail and faxes .
+The Microsoft Network You can use this new, affordable, and easy-touse
+online service to communicate with people worldwide, using e-mail,
+bulletin boards, and the Internet .
+Backing up your old files
+Welcome
+	
+xiii
+Most Windows 95 setups are easy and trouble-free : however, any time
+you update your computer's operating system, it is possible that an error
+could occur (such as system failure due to incompatible hardware, or a
+power failure) that may temporarily or permanently prevent access to
+data .
+Before you set up Windows 95, you might want to back up certain
+system files . The files you should hack up include the following :
+•
+	
+All initialization (ini) files in your Windows directory
+• All registry data ( .dat) files in your Windows directory
+• All password ( .pwl) files in your Windows directory
+• Any files specified in the Config .sys and Autoexec .bat files
+• Your Config .sys and Autoexec .bat files, located in the root directory
+of your startup drive (usually drive C)
+•
+	
+Proprietary network configuration files and logon scripts
+You may also want to back up personal or business data that is on the
+hard disk.
+Just before setting up Windows 95, make sure your network software, if
+any, is working . The settings from the existing network configuration are
+used in Windows 95 .
+xiv
+	
+Welcome
+Setting up Windows 95
+It's easy to set up Windows . There are two ways to do it, depending
+on whether you have an earlier version of Windows (version 3 .x or
+Windows for Workgroups) on your computer .
+upgrade from
+	
+earlier version of Windows
+•
+	
+Insert Setup Disk 1 in a floppy disk drive or your Windows CD-ROM
+in a CD-ROM drive .
+•
+	
+2 In File Manager or Program Manager, click File, and then click Run .
+v 3 Type the drive letter, followed by a colon ( :) and a backslash (\), and the word
+setup . For example :
+a :\setup
+Note that if you install from a CD-ROM, precede the word "setup" with win95\ . •
+	
+4 Follow the instructions on your screen . Click Next to continue
+through the Setup process .
+If you do not have a previous version of Windows, use the following
+procedure . To set up Windows from MS-DOS
+•	1 lnsert Setup Disk 1 in a floppy disk drive or your Windows
+CD-ROM in a CD-ROM drive. • 2 At the command prompt, type the drive letter, followed by a colon () and a
+backslash (\), and the word setup . For example, your screen might look like
+this :
+[c :\] a :\setup
+Note that if you install from a CD-ROM, precede the word "setup" with win95\.
+•
+	
+3 Press ENTER, and then follow the instructions on your screen . Click Next to
+continue through the Setup process .
+Setup prompts you to choose the type of installation you want . If you're
+not sure, choose the one that Windows selects for you . The following
+table describes these options .
+This Setup option
+	
+Does this
+Welcome xv
+Typical Sets up the most commonly used Windows
+components .
+Portable Sets up features that are most useful for a portable
+computer, while conserving disk space . This
+includes power management features and
+Briefcase, a program that helps you synchronize
+files between laptop and desktop computers .
+Compact
+	
+Sets up only the basic tiles you need to run
+Windows. This is useful if you have very limited
+disk space .
+Custom
+	
+Enables you to choose exactly which components
+to install . If you are an advanced user or system
+administrator and want to customize your
+Windows installation, choose this option .
+If you encounter problems setting up Windows, see the Setup .txt file that
+comes with Windows .
+
+C H A P T E R 1
+The Basics
+What's the key to using Microsoft Windows 95? The Start
+button! This chapter gives you quick, simple instructions to
+get you up and running . You will also learn how to use online
+Help, which will help you get your work done and learn
+Windows.
+Contents
+Getting Started with Windows 95
+Starting and Quitting a Program 5
+Opening a Document 8
+Getting Help 10
+Finding Something on Your Computer 13
+Changing System Settings 14
+Starting a Program by Using the Run Command 15
+Shutting Down Your Computer 17
+1
+2
+	
+Introducing Microsoft Windows 95
+Getting Started with Windows 95
+This section gives you a quick overview of getting started with
+Windows.
+Logging on to Windows
+When you start Windows, you may be prompted to log on to Windows
+or, if you are on a network, to log on to your network .
+If you don't want to log on with a password, don't type anything in the
+password box, and click OK . You won't see this prompt in the future .
+T log on to Windows
+In the User Name box, type your name .
+2 In the Password box, type a password . The first time,
+Windows prompts you to confirm your password .
+The Start button and taskbar
+The Start button and taskbar are located at the bottom of your screen
+when you start Windows for the first time . By default, they are always
+visible when Windows is running .
+Chapter 1 The Basics
+	
+3
+Starting with the Start menu
+When you click the Start button, you see a menu that contains everything
+you need to begin using Windows .
+If you want to start a program, point to Programs . If you want Help
+on doing something in Windows, click Help . The commands on the Start
+menu are described in more detail in the rest of this chapter . An
+overview of each command is shown below .
+This command Does this
+Programs
+	
+Displays a list of programs you can start .
+Documents Displays a list of documents that you've opened previously .
+Settings Displays a list of system components for which you can
+change settings .
+Find Enables you to find a folder, file, shared computer, or mail
+message .
+Help Starts Help . You can then use the Help Contents, Index,
+or other tabs to find out how to do a task in Windows .
+Run
+	
+Starts a program or opens a folder when you type an
+MS-DOS command.
+Shut Down Shuts down or restarts your computer, or logs you off .
+Depending on your computer and the options you have chosen, you may
+see additional items on your menu .
+4
+	
+Introducing Microsoft Windows 95
+The taskbar
+Every time you start a program or open a window, a button representing
+that window appears on the taskbar . To switch between windows, just
+click the button for the window you want . When you close a window, its
+button disappears from the taskbar.
+Depending on what task you're working on, other indicators can appear
+in the notification area on the taskbar . such as a printer representing your
+print job or a battery representing power on your portable computer . At
+one end of the taskbar is the clock . To view or change settings, just
+double-click the clock or any of the indicators .
+Starting and Quitting a Program
+You can add a program to the
+top of the Start menu by
+dragging its icon onto the
+SAN button .
+UK MAW
+You call use the Start button to start any program YOU want to use, such
+as your word processor or a favorite game .
+To start a program
+v 1 Click the Start button, and then point to Programs .
+Chapter 1 The Basics
+	
+5
+Point to the folder,
+such as Accessories,
+that contains the
+program, and then
+click the program .
+6
+	
+Introducing Microsoft Windows 95
+What appears when you click Programs?
+The programs and folders you see when you point to Programs
+come from several places :
+• When you set up Windows, you see several programs, such as
+Windows Explorer and MS-DOS Prompt, and several folders
+on the Programs menu. Each folder contains programs that are
+grouped together for easy access . •
+	
+Windows also includes the StartUp folder, in which you can
+put programs you want to start automatically when you start
+Windows. For more information, see "Using Windows
+Efficiently" in Chapter 2, "Beyond the Basics ."
+•
+	
+When you install new programs on your computer, you may
+see additional folders . • If you upgraded from a previous version of Windows, your old
+program groups appear as folders .
+You can run as many programs as you want at the same time . Windows
+makes it easy to switch between programs or windows .
+To switch between programs
+v Click the taskbar button for the program you want .
+Chapter 1 The Basics
+	
+7
+8
+	
+Introducing Microsoft Windows 95
+Opening a Document
+There are several ways to open documents in Windows. This section
+describes two methods . You can :
+•
+	
+Open your document from within the program you used to create it .
+• Use the Documents command on the Start menu to open a document
+you've opened recently .
+You can also :
+• Use the Find command on the Start menu to locate the document . For
+more information, see "Finding Something on Your Computer" later
+in this chapter.
+•
+	
+Double-click a document icon in My Computer.
+To open document from within program
+< . On the File menu, click Open . 2 To open a document in a
+different folder, click the
+arrow next to the Look In
+box, and then click the disk
+that contains the folder .
+Click the folder that contains
+the document you want to
+open, and then click Open .
+You may have to scroll to
+see more folders .
+Continued on next page )o
+3
+You can also open documents from the Documents menu, where many
+programs save a list of recently opened documents .
+T open document using the Documents menu
+Click the Start button, and
+then point to Documents .
+v The document opens, and a button for
+the document appears on the taskbar .
+Click the document you
+want to open, and then
+click Open .
+Chapter 1 The Basics
+	
+9
+Click the name of the
+document you want to open .
+1 0
+	
+Introducing Microsoft Windows 95
+Getting Help
+Online Help is essential to learning and using Windows . There are two
+kinds of Help : Help about a specific procedure and Help that gives you
+information about what you see on your screen .
+T get Help
+Click the Start button,
+and then click Help .
+4 The list of Help topics appears .
+You can use the tabs in Help
+to search for information in
+several ways . When you open Help by using the Start menu, or the Help menu in My
+Computer or Windows Explorer, you see Help for Windows in general .
+If you use the Help menu in a program, such as WordPad, Paint, or
+Microsoft Word, the Help you see is for that program .
+TIP
+Some Help topics contain green
+underlined text . You can click
+the green text to see a definition
+of the term .
+TIP
+To scroll through the Help Index,
+type the first few letters of the
+word you want to search for . The
+Index is arranged just like a
+book index . If you don't find the
+entry you want, try another
+entry .
+To find Help through the Contents
+v Click the Contents tab to find topics grouped by subject,
+and then follow the instructions on your screen .
+To find Help through the Index
+v Click the Index tab to find specific topics listed alphabetically,
+and then follow the instructions on your screen .
+Chapter 1 The Basics
+	
+1 1
+^. To return to the list of topics,
+click Help Topics .
+A To return to the list of topics,
+click Help Topics .
+1 2
+	
+Introducing Microsoft Windows 95
+TIP
+You can also use your right
+mouse button to click an item
+on the screen . Then click the
+What's This? command .
+To find Help topics containing word or phrase
+Click the Find tab to find all the topics that
+contain a specific word or phrase, and then follow
+the instructions on your screen .
+To get Help o a specific item
+For information about an item in a dialog box,
+click .?1, and then click the item .
+A To return to the list of topics,
+click Help Topics .
+A A pop-up explanation appears .
+Click it to make it disappear.
+Finding Something on Your Computer
+If you don't know where a document or folder is, you can use the Find
+command to find and open it.
+TIP
+You can also use the Find
+command to search for a
+computer on the network.
+To find something
+Click the Named box, and then type the
+name of the file or folder you want to find .
+4 To specify where to search, click the arrow
+next to the Look In box, or click Browse .
+To start the search, click Find Now.
+Chapter 1 The Basics
+	
+1 3
+Click the Start button,
+and then point to Find .
+4
+.Click
+Files Or Folders .
+1 4
+	
+Introducing Microsoft Windows 95
+Changing System Settings
+TIP
+Some of the things you can use
+Control Panel for are changing
+your screen colors, installing or
+changing settings for hardware
+and software, and setting up or
+changing settings for a network .
+The icons that appear in Control
+Panel vary depending on the
+hardware and software installed
+on your computer.
+Using Control Panel, you can change the way Windows looks and
+works.
+To change Windows settings
+e 3 Double-click an icon to see the settings you can change .
+To see more settings, click the tabs at
+f the top of the dialog box that appears .
+Click the Start button,
+2
+and then point to Settings .
+Click Control Panel .
+Starting a Program by Using the Run
+Command
+TIPS
+If you aren't sure where the
+program is or how to specify the
+path, click the Browse button .
+You can also open a folder on
+your computer by typing its
+name. If it is located on the
+network, type the path .
+If you know the name and path of the program you want to start, you can
+use the Run command to start it easily .
+To start program or open a folder or document
+< I. Click the Start button, and then click Run .
+v 2 Type the name of the program, folder, or
+document you want to open . Or click Browse
+to look for the item .
+Chapter 1 The Basics
+	
+1 5
+You can click the down arrow
+to see commands you typed
+previously.
+When you use the Run command, you can often specify just the name of
+the program instead of the full path . The following page explains how to
+use paths.
+1 6 Introducing Microsoft Windows 95
+TIP
+Most filenames end with a
+3-letter "extension" that tells
+Windows what kind of file it is .
+For example, a filename ending
+in exe is a program, and a
+filename ending in txt is a
+text file .
+- See Also
+For more information about
+extensions, look up extensions .
+filename" in the Help Index
+For information about mapping
+drive letters,. see Using the
+Network '"m Chapter 3, introducing
+Networks, "
+What is a path?
+A path is a more direct way to describe where a file, such as a
+document or program, is located on your computer or the network .
+It lists the drive, such as the hard disk, floppy disk, CD-ROM
+drive, or shared network folder, that contains the document . It also
+lists all the folders that you need to open to find the document .
+To specify the full path for a document, type the drive letter,
+followed by a colon () and backslash (\) . Then list the folders in
+the order you open them . If there are more than one, separate the
+names by backslashes . Then type the filename .
+Windows 95 supports long filenames, which can contain up to
+250 characters . If you use long filenames, enclose the path in
+quotation marks.
+Here are some examples of paths :
+•
+	
+To specify the location of the Readme file, which is located on
+drive C in the Windows folder, you would type :
+c :\windows\readme.txt
+• To specify the location of a document named Party List .doc,
+located in the Holiday folder, which is in the Social Events
+folder on drive C, you would type :
+"c:\social events\holiday\party list .doc"
+•
+	
+To specify the location of a bitmap (drawing) named Canyon,
+which is located on the network in a shared folder named
+\\Pictures\Scenic , you could type :
+\\pictures\scenic\canyon.bmp
+Or, if the folder is mapped to drive D, you could type :
+d :\canyon.bmp
+Shutting Down Your Computer
+You need to shut down Windows before you turn off or restart your
+computer . That way you can be sure your work is saved to your hard
+disk .
+Caution To avoid damaging files, always shut down Windows before
+you turn off your computer .
+To quit Windows and shut down your computer
+Click the Start button, and
+then click Shut Down .
+3 A screen message lets you know when
+you can safely turn off your computer .
+Chapter 1 The Basics
+	
+17
+2 Click Yes . If you forget
+to save changes to
+documents, Windows
+prompts you to save
+changes .
+For information about the other options in this dialog box, click the Help
+button.
+
+C H A P T E R 2
+Beyond the Basics
+Now that you feel comfortable with the basics, use this
+chapter to explore the new ways Windows 95 makes it easy
+to manage files and folders and print your documents .
+Contents
+Seeing What's on Your Computer 20
+Organizing Files and Folders 24
+Working Within Documents 28
+Printing 32
+Installing Software 35
+Installing Hardware 36
+Using Windows Efficiently 37
+19
+2 0
+	
+Introducing Microsoft Windows 95
+Seeing What's on Your Computer
+In Windows 95, the things you have on your computer - your programs,
+documents, and data files, for example - are all accessible from one
+place called My Computer . When you first start Windows, My Computer
+is located at the upper left of your Windows screen, or desktop .
+T see what's on your computer
+Double-click My Computer .
+My Compiler
+' A window appears, displaying several different pictures, called icons .
+To use an item in My Computer, double-click the icon . The following list
+describes what happens when you double-click the various icons .
+Double-click
+this icon
+	
+To see this
+The contents of a floppy disk in your computer's 3 .5-inch
+drive, if there is one .
+The contents of a floppy disk in your computer's 5 .25-inch
+drive, if there is one .
+The contents of your computer's hard disk .
+The contents of a network drive, if your computer is
+connected to one . For more information, see Chapter 3,
+"Introducing Networks ."
+The contents of a compact disc in your computer's
+CD-ROM drive, if there is one .
+Double-click
+this icon
+	
+To do this
+When you double-click a disk-drive icon in My Computer, a window
+such as the following appears .
+This icon
+Chapter 2 Beyond the Basics
+	
+2 1
+Change the settings for your computer . For more
+information, see "Changing System Settings" in Chapter 1,
+"The Basics."
+Set up printers and view information about your printers
+and the documents you print . For more information, see
+"Printing" later in this chapter .
+Represents
+A folder, which can contain files and other folders. To keep
+things organized, your work is stored in folders, just as you
+might store it in your office or at home . Your directories
+appear as folders .
+A shared folder . You share a folder so that other people on
+a network can use the folder's contents . For more
+information, see Chapter 3, "Introducing Networks ."
+A file, the basic unit of storage in Windows . The
+documents you use and create are files, and so are the
+programs you use . Different types of files may have
+different-looking icons . This standard (generic) icon is used
+when a file type does not have a specific icon associated
+with it .
+A document that was created with WordPad, a text editor
+that is included with Windows .
+You double-click these icons to see the contents of the folder or the
+information in the file, or to start a program .
+22 Introducing Microsoft Windows 95
+TIPS
+Another way to open Windows
+Explorer is to use the right
+mouse button to click the My
+Computer icon. Then click
+Explore .
+To show or hide folders on the
+left side of the window, click the
+plus or minus sign beside the
+folder .
+Using Windows Explorer to see what's on your computer
+Another way of seeing what's on your computer is to use
+Windows Explorer . Opening Windows Explorer gives you a view
+of your computer's contents as a hierarchy, or "tree ." You can
+easily see the contents of each drive and folder on your computer,
+as well as of any network drives you are connected to .
+To see the hierarchy of folders
+L Your disk drives and folders appear here .
+You can open a document or start a program by double-clicking its icon
+in the right side of the window .
+You can look at the contents of your computer in different ways by using
+the View menu, as shown on the following page .
+l Click the Start button, point
+to Programs, and then click
+Windows Explorer.
+The right side of the window
+displays the contents of the
+item you click on the left .
+TIP
+You can also press BACKSPACE to
+see the previous folder, whether
+or not the toolbar is visible .
+To change how icons are displayed
+v On the View menu, click the Small Icons, List,
+or Details command .
+As
+you use My Computer, you may
+want to open the folder that contains
+the folder you're looking at.
+To display the previous folder
+2 Beyond the Basics
+	
+Chapter 23
+1. This is the Large Icons view .
+1
+< 1 If the toolbar is not
+visible, click View, and
+then click Toolbar.
+< 2 On the toolbar, click the
+Up One Level button .
+The
+toolbar contains buttons
+for common tasks .
+24
+	
+Introducing Microsoft Windows 95
+Organizing Files and Folders
+TIPS
+A quick way to move and copy
+files and folders is to use your
+right mouse button . For more
+information, see "Using
+Windows Efficiently" later
+in this chapter .
+You can copy a portion of text
+and place it as a "scrap" in a
+folder or on the desktop . For
+more information, look up "part
+of a document" in the Help
+Index .
+This section details some basic procedures for organizing the information
+on your computer so it is easier to work with . The following procedures
+use My Computer . You can also use Windows Explorer to do these
+tasks .
+To move or copy file or folder
+4
+	
+Double-click My Computer. Find the file or folder
+you want to move or copy, and then click it .
+2 Click Edit. •
+	
+To move tne file, click
+Cut . • To make a copy of the
+file, click Copy.
+3 Open the folder where
+you want to place the file,
+click Edit, and then click
+Paste .
+TIP
+A quick way to delete a file is to
+drag it to the Recycle Bin on the
+desktop. For more information
+about dragging files, see "Using
+Windows Efficiently" later in this
+chapter .
+To delete a file or folder
+® 1 Double-click My Computer . Find the file or folder
+My Computes
+	
+you want to delete, and then click it .
+Chapter 2 Beyond the Basics
+	
+25
+2 On the File menu,
+click Delete . What happens to deleted files?
+The files you delete are put in the Recycle Bin, a holding place for
+files you no longer need . They are not actually removed from your
+hard disk until you "empty" the Recycle Bin .
+This means you can retrieve files you deleted in error, if you have
+not already removed them from the Recycle Bin . However, this
+also means that if you want to free up disk space, you must empty
+the Recycle Bin periodically . For more information, look up
+"Recycle Bin" in the Help Index .
+If you delete a file at the command prompt or from a floppy disk,
+it does not go into the Recycle Bin .
+2 6
+	
+Introducing Microsoft Windows 95
+To create a new folder
+•
+	
+1 Double-click My Computer, and then double-click the disk
+drive or folder in which you want to place the new folder .
+` On the File menu,
+point to New, and
+then click Folder.
++ 3 Type the name of the
+new folder, and then
+press ENTER .
+TIP
+Another way to copy files is to
+use your right mouse button .
+For more information, see
+"Using Windows Efficiently"
+later in this chapter .
+When you want to copy files or folders from your hard disk to a floppy
+disk, the easiest way is to use My Computer .
+To copy a file to a floppy disk
+•
+	
+1 Double-click My Computer. Find the file or
+folder you want to copy, and then click it.
+Chapter 2 Beyond the Basics
+	
+2 7
+On the File menu,
+point to Send To, and
+then click the drive
+where you want to
+copy the file or folder .
+Selecting multiple items
+You can select multiple items by pressing and holding down the
+CTRL key as you click each item you want, or by clicking Select
+All on the Edit menu to select every item in the window .
+2 8
+	
+Introducing Microsoft Windows 95
+Working Within Documents
+TIP
+After you select information, try
+using your right mouse button
+to click it. A menu appears,
+containing commands you
+can use to format or edit the
+selection .
+= See Also
+For more information about using
+the mouse and selecting. see the
+,.Visual Glossary-appendix .
+This section provides some basics of working within documents in
+Windows. For information specific to the program you're running, use
+Help within the program .
+Copying, Moving, and Deleting Information
+As you work, you often need to copy and move information - from one
+document to another, or from one place to another within a document .
+At times you also need to delete information .
+Selecting information in a document
+Before you edit information, you usually must select (highlight) it .,
+Place the mouse pointer where you want to start selecting. Then
+press and hold down the mouse button, and drag the pointer to
+where you want the selection to end . Then release the mouse
+button .
+To copy or move information
+v 1. Select the information .
+•
+	
+2 Click Edit. •
+	
+To leave the information where it is and
+insert a copy of it somewhere else, click
+Copy. •
+	
+To delete the information and insert it
+somewhere else, click Cut .
+Continued on next page )4
+TIP
+You can also move or copy
+information between different
+programs, such as between
+Paint and a WordPad document .
+For more information, look up
+"pasting, information from
+another document" in the Help
+lndex .
+v
+	
+In the document where you want to insert the information,
+click the place where you want it to appear.
+•
+	
+4On the Edit menu, click Paste .
+Chapter 2 Beyond the Basics
+	
+2 9
+The new information appears
+in the document .
+To save the changes you made to an existing document or the work
+you've done in a new document, you need to save the document .
+TD save changes to an existing document
+v On the File menu, click Save .
+PP
+You can also use this procedure
+to copy a file and give it a new
+name and/or location .
+1 < 1 On the File menu,
+click Save As .
+w < 2 ~ 2Type a nam in the
+He Name box .
+To save a new document
+Continued on next page
+Saving Your Work
+TIP
+To save a file in the folder one
+level above, click the Up One
+Level button to the right of the
+Save In box .
+Chapter 2 Beyond the Basics
+	
+3 1
+•
+	
+3 To change the file type,
+click the arrow next to Save
+As Type, and then click the
+type you want .
+•
+	
+4 To save to a different drive
+and/or folder, open the
+Save In list, click the drive
+you want, and then
+double-click the folder.
+•
+	
+Click Save .
+3 2
+	
+Introducing Microsoft Windows 95
+Printing
+Windows 95 offers significant improvements to printing - in particular,
+to the way you set up a printer to print from Windows . This section
+covers the basics of printer setup and printing . Additional printing
+topics are covered in Help .
+Setting Up a Printer
+Setting up your printer is easy and fast, thanks to the Add Printer wizard,
+a step-by-step printer setup program .
+Note Before you begin, make sure your printer is correctly connected to
+your computer and that you know the make and model of the printer . If
+you're planning to use a shared printer over the network, you may also
+need to know the path to it (for example, \\Accounting\Printer1 might
+be the path to a network printer) . Or you can browse for the printer in
+Network Neighborhood and then double-click its icon to set it up .
+T se u a printer for use with Windows
+Click the Start button, point to
+Settings, and then click Printers . 2 Double-click Add Printer .
+Continued on next page )'
+TIP
+If any printers are already set up,
+their icons appear in the Printers
+folder. These printers are ready
+for you to use.
+TIP
+You can use these same steps to
+set up a shared network printer .
+Just click Network Printer when
+the wizard prompts you .
+Chapter 2 Beyond the Basics
+	
+3 3
+v 4 When you finish, the icon for your printer appears in the Printers folder .
+Your printer is ready for you to use . lf you set up both local and shared
+network printers, notice that the icons are different .
+Network printer
+Local printer
+Follow the instructions
+on your screen .
+You can double-click the printer icon in the Printers folder to see the
+documents that are printing or waiting to print, and to manage printing .
+For example, you can pause or cancel the printing of one or more
+documents.
+34
+	
+Introducing Microsoft Windows 95
+Printing a Document
+After you have set up a printer, you can easily print your documents .
+An easy way to print is to drag the icon for your document onto a printer
+shortcut icon on the desktop . For information about creating shortcuts,
+see "Putting a Shortcut on the Desktop" later in this chapter .
+Troubleshooting Printing Problems
+If you have trouble printing in Windows, you can use the printing
+troubleshooter included in Help . The troubleshooter helps with problems
+such as your documents printing incorrectly or not at all . For more
+information, look up "print troubleshooting" in the Help Index .
+up
+You can add or remove
+components of Window by
+clicking the Windows Setup tab
+in the Add/Remove Programs
+window .
+Windows provides a quick way to set up new programs on your
+computer.
+To install programs
+Chapter 2 Beyond the Basics
+	
+35
+1
+w Click the Start button, point
+to Settings, and then click
+2 Double-click Add/Remove
+Programs.
+3
+<-1 Follow the instructions
+on your screen .
+Installing
+	
+~- Software
+3 6
+	
+Introducing Microsoft Windows 95
+Installing Hardware
+Windows can help you set up new hardware, such as a sound card, on
+your system .
+Note If you haven't already inserted your hardware card in your
+computer, you should do so before starting this procedure . You should
+turn off and unplug your computer before taking the cover off . For more
+information, see your hardware documentation .
+To install hardware
+Click the Start button, point
+to Settings, and then click
+Control Panel . .4 2 Double-click Add
+New Hardware .
+3 Follow the instructions on
+your screen .
+Using Windows Efficiently
+TIPS
+You can quickly copy a file to a
+floppy disk by clicking Send To
+after you use your right mouse
+button to click the file icon .
+When you use the right mouse
+button to click various items in
+Windows, shortcut menus
+appear that contain many useful
+commands.
+•
+	
+See Also
+Windows provides some special features to speed up the way you work .
+In addition to the button on the left side of the mouse, now you can use
+the right mouse button to access and move information faster or to create
+shortcuts to documents, programs, and other items .
+Copying and Moving Files Quickly
+There are two ways of using the right mouse button to copy or move files
+quickly: by using menu commands and by dragging .
+T move or copy by using the right mouse button
+Use the right mouse button to click
+the file you want to move or copy .
+Chapter 2 Beyond the Basics
+	
+37
+To move the file, click Cut . To
+copy the file, click Copy .
+'< Open the folder where you
+want to place the file . Then
+use the right mouse button
+to click an empty part of
+the window .
+4 Click Paste .
+38 Introducing Microsoft Windows 95
+TIP
+You can also move or copy a file
+by dragging it using the left
+mouse button . Dragging a file
+between two folders on the
+same drive moves the file .
+Dragging a file between different
+drives copies it instead .
+Sometimes the quickest way to move and copy information is to drag it
+from one place to another by using your mouse . You can move or copy
+files and folders to another folder or disk drive .
+To move or copy by dragging
+1 In Windows Explorer, open
+the folder that contains the
+file you want to move or copy.
+< 2 Use the right mouse button to
+drag the file to the folder
+where you want to move or
+copy it . Then release the
+mouse button .
+< 3 Click Move Here or
+Copy Here .
+Putting a Shortcut on the Desktop
+Shortcuts provide easy access to the documents and programs you use
+most often . For example, suppose you keep track of your activities in a
+document called Daily Log . You can place a shortcut to Daily Log on the
+Windows desktop .
+You can then open the document without having to find it first, by
+double-clicking the shortcut icon . A shortcut does not change a file's
+location ; it just lets you open the file quickly . You can create a shortcut
+to any object, including folders, disk drives, other computers, or printers .
+TIPS
+You can put a shortcut in any
+folder, in addition to on the
+desktop .
+When you delete a shortcut, the
+original file is not deleted . If you
+delete the file, the shortcut is not
+deleted automatically .
+To put shortcut on the desktop
+. In My Computer or Windows Explorer,
+locate the item you want easy access to .
+Chapter 2 Beyond the Basics
+	
+39
+2 Use the right mouse
+button to drag the item to
+the desktop . Then release
+the mouse button
+4 3 Click Create
+Shortcut(s) Here .
+40
+	
+Introducing Microsoft Windows 95
+Keeping Programs Handy
+You can get to work more quickly if the programs you use most often are
+readily available .
+For example, you might want to have a program start automatically when
+you start Windows . To do this, you create a shortcut to the program in
+your StartUp folder.
+To set up a program to start when Windows starts
+> 1	 In Windows Explorer, locate the program you want,
+and then use the right mouse button to click it .
+2 Click Create Shortcut . 3
+A shortcut icon appears .
+Click the plus signs next
+to the Windows folder,
+the Start Menu folder,
+and then the Programs
+folder.
+Continued on next page
+TIP
+You can set up the program to
+start minimized instead of in a
+window. For information, look
+up "minimized windows" in the
+Help Index .
+Chapter 2 Beyond the Basics
+	
+41
+4 Drag the shortcut icon
+to the StartUp folder,
+and then release the
+mouse button .
+The program appears
+in the StartUp folder
+and will start each time
+you start Windows .
+More ways to keep programs handy
+• You can drag a program icon onto the Start button from My
+Computer or Windows Explorer. The icon will then appear at
+the top of the Start menu .
+• You can add programs to any of the folders on the Programs
+menu, or create a new folder . For more information, look up
+"Programs menu" in the Help Index . • If you want a program or document to be instantly available,
+you can place a shortcut to it on the Windows desktop . For
+more information, see "Putting a Shortcut on the Desktop"
+earlier in this chapter .
+
+C H A P T E R 3
+Introducing
+Networks
+When you're ready to go beyond the computer on your desk,
+use this chapter to learn the basics of working on a network .
+You will learn how to set up your computer to use a network,
+and how you and your co-workers can share documents,
+programs, and printers to work more efficiently .
+Contents
+43
+Using the Network 44
+Setting Up Your Computer to Use a Network 46
+Sharing Your Folders or Printers 50
+Using Resources Located on Other Computers 55
+Connecting to the Internet 58
+44
+	
+Introducing Microsoft Windows 95
+Using the Network
+A network is a group of computers connected to each other or to a
+central server so they can share resources such as documents and
+printers .
+Your connection to a network can change the way you work :
+•
+	
+You can use programs and documents from another computer without
+passing floppy disks back and forth .
+• You can print documents on a printer attached to another computer,
+or use another computer's fax modem, just as if they were connected
+to your computer. •
+	
+You can gain access to the Internet .
+• You may also be able to send and receive messages by using
+electronic mail, or connect to your work computer from home .
+Introducing the Network Neighborhood
+If your computer is set up to use a network, the Network Neighborhood
+icon appears on the desktop .
+When you double-click Network Neighborhood, you might see the
+computers in your workgroup or any NetWare servers you are connected
+to . Generally, your workgroup has been set up by an administrator so
+that the computers in it contain most of the resources you want to use .
+You can see other computers on the network - those not in your
+workgroup - by double-clicking the Entire Network icon, which
+appears in Network Neighborhood .
+If your computer is not set up to use a network, read the following
+section .
+Chapter 3 Introducing Networks
+	
+45
+46
+	
+Introducing Microsoft Windows 95
+Setting Up Your Computer to Use a Network
+TIPS
+You can also double-click
+Network in Control Panel to
+add or delete network
+components and change
+settings for components that
+were previously installed .
+You can connect to your office
+computer and the network it is
+on from your home or on the
+road . For more information, see
+"Using Dial-Up Networking" later
+in this chapter .
+There are two major steps in setting up a network : setting up your
+hardware and setting up your software .
+Note Your computer may already be set up to use a network . If
+Windows prompts you for a network password at startup, and if the
+Network Neighborhood icon appears on the Windows desktop, your
+network is already set up and you can skip this section .
+Before setting up the software, be sure your network hardware is
+correctly installed . This includes the network adapter (network card
+or other device) and cables .
+To set up network software
+Click the Start button,
+point to Settings, and then
+click Control Panel .
+2 Double-click Network .
+Continued on next page )4
+3 Click Add .
+Chapter 3 Introducing Networks
+	
+4 7
+4
+< 4 Click Adapter, and
+then click Add .
+5
+> 5 Follow theinstruct ons on your screen .Ifyou don'tknow what kind
+of adapter you have, check the documentation that came with it .
+When you set up a
+network adapter, Windows automatically sets up
+	
+the other network components you need to use the network
+	
+.
+See the Following page for descriptions of the network components .
+4 8
+	
+Introducing Microsoft Windows 95
+What are the network components?
+•
+	
+Client software enables you to connect to network resources
+such as folders and printers that have been shared on
+computers on the network.
+With Client for NetWare Networks, you can connect to
+Novell® NetWare® servers . With Client for Microsoft
+Networks, you can use resources shared on computers
+running Microsoft Windows 95, Windows for Workgroups,
+Windows NT'", LAN Manager, and on other Microsoftcompatible
+computers . •
+	
+A network adapter is an expansion card or other device that
+physically connects your computer to the network . •
+	
+A protocol might be called the language your computer uses
+when communicating over the network . Several protocols are
+available . Two computers must use the same protocol to
+communicate with each other.
+•
+	
+Service software includes services such as file and printer
+sharing for your computer or automatic backup to a network
+server .
+Identifying your computer on the network
+After setting up network software, you need to give Windows some
+information to identify your computer on the network . For example, your
+network administrator may have assigned your computer to a workgroup
+of computers . These are likely to contain most of the resources you will
+want to use.
+You identify your computer by using the procedure on the next page .
+identify your computer o t network
+In the Network dialog box, click the
+Identification tab . v 2 Type a name for your computer, your workgroup name, and
+a brief description of your system that other people will see
+when they look at your computer on the network .
+Chapter 3 Introducing Networks
+	
+4 9
+50
+	
+Introducing Microsoft Windows 95
+Sharing Your Folders or Printers
+See Also
+For information about installing file
+and print sharing, lookup enabling
+'file and printersharing' in the Help
+Index
+If you installed file and printer services for Microsoft Networks or
+NetWare Networks, you can share your documents and any printers
+attached to your computer with other people on the network . To share
+documents, you share the folder they are in .
+Giving permission to use your shared resources
+There are two ways to grant people access to the folders and
+printers you share over the network :
+•
+	
+Share-level access control - Anyone wanting to use the shared
+resource must know the password you have assigned to it . •
+	
+User-level access control - As you share a resource, you
+specify the names of people or groups who are authorized to
+use it . If you choose this type of access, you need to specify
+the computer or domain where the list of authorized users is
+located .
+Windows automatically assigns a permission setting when you set
+up to share resources . For information about choosing a different
+type of permission, look up "access to your computer" in the Help
+Index.
+Chapter 3 Introducing Networks
+	
+5 1
+Note The dialog box you use to share a folder or printer appears
+differently depending on what kind of access control you use . The
+following illustration shows sharing with user-level access control .
+The following shows the same dialog box with share-level access
+control .
+52
+	
+Introducing Microsoft Windows 95
+TIPS
+You can also share an entire
+disk drive by using this
+procedure . Instead of clicking
+a folder, click a drive icon .
+You may be able to use your
+shared resources from a
+computer at home or on the
+road . For information, see
+"Using Dial-Up Networking"
+later in this chapter .
+The following procedures show share-level access control .
+T share a folder
+2
+Locate the folder you want
+to share, and then click it .
+On the File menu, click
+Sharing . (If sharing is
+not on the menu, you
+need to install file and
+printer sharing .)
+,4 3 Click the options you want .
+T share your printer
+A 3On the File menu, click Sharing .
+Chapter 3 Introducing Networks
+	
+53
+2
+Click the Start button, point to
+Settings, and then click Printers .
+In the Printers window, click the
+printer you want to share .
+Continued on next page A
+54
+	
+Introducing Microsoft Windows 95
+4 Click the options you want .
+Note The tabs that appear in the printer properties dialog box will vary
+depending on the type of printer you have .
+Using Resources Located on Other
+Computers
+TIPS
+If the computer is not in your
+workgroup, double-click Entire
+Network.
+You can also create a shortcut
+to a network resource. For
+information about shortcuts,
+see "Putting a Shortcut on the
+Desktop" in Chapter 2, "Beyond
+the Basics ."
+You can use the Find and Run
+commands on the Start menu
+to find network resources. For
+more information, see Chapter 1,
+"The Basics."
+Working with a file or folder located on another computer is much like
+working with those on your own computer . To use resources someone
+has shared on the network, you open the folder that contains them .
+To use a shared folder
+•
+	
+1. Double-click Network Neighborhood . s 2 Double-click the icon for the computer
+that contains the folder you want .
+Chapter 3 Introducing Networks
+	
+55
+•
+	
+3 Double-click the folder that contains
+the document or program you want .
+To use a printer that has been shared on the network, you need to set up
+the printer on your computer . For information, see "Setting Up a Printer"
+in Chapter 2, "Beyond the Basics ."
+Mapping a drive letter to a network resource
+If you need to connect often to the same shared folder, you may
+want to assign a drive letter to it - such as drive K or S . Then
+you can just switch to that drive in My Computer or Windows
+Explorer when you want to use the resource .
+To learn how to map a drive letter to a network resource, look up
+"mapping, drive letters" in the Help Index .
+5 6
+	
+Introducing Microsoft Windows 95
+Using Dial-Up Networking
+Whether you're at home or on the road, you can use Dial-Up
+Networking to connect to your office computer and the network it is
+on . By using a modem and dialing in to the computer, you can use any
+shared resource, such as a folder or printer, on the computer or network .
+To connect two computers in this way, they must both have modems
+installed . You must also set up Dial-Up Networking on both computers .
+and the computer you want to dial into must he set up as a server .
+TIP
+You can also connect computers
+by using a serial or parallel
+cable . For more information,
+look up "Direct Cable
+Connection" in the Help Index .
+If there is no icon for Dial-Up Networking in the My Computer window .
+you can use the following procedure to install it .
+To set up Dial-Up Networking
+1 Click the Start button, point
+to Settings, and then click
+Control Panel .
+2 Double-click Add/Remove
+Programs .
+Continued on next page >
+TIPS
+After setting up Dial-Up
+Networking on the computer
+you will dial into, be sure to
+share the folders you will be
+using .
+You can also use Add/Remove
+Programs to install other
+Windows accessories that may
+not have been installed when
+you first set up Windows .
+Chapter 3 Introducing Networks
+	
+5 7
+3 Click the Windows Setup
+tab, click Communications,
+and then click Details .
+<4Click the Dial-Up Networking
+check box, and then click OK .
+Click OK again, and follow the
+instructions on your screen .
+Double-click
+My Computer,
+and then double-click
+Dial-Up Networking .
+t Follow the instructions
+on your screen .
+5 8 Introducing Microsoft Windows 95
+Connecting to the Internet
+= See Also
+For more information about
+connecting to the Internet, look up
+"Internet, connecting to " in the Help
+Index.
+For more information about Dial Up
+Networking, see the previous
+section. Using Dial-Up
+Networking. "
+For more information about The
+Microsoft Network, look up
+'Microsoft Network" in the Help
+Index.
+The Internet is a rich online source of information, from bulletin boards
+and discussion groups to electronic mail and up-to-date news
+information . Windows provides two ways to connect to the Internet :
+•
+	
+Using The Microsoft Network, a new online service, you can gain
+access to Internet news groups, download software, and send and
+receive e-mail over the Internet . To sign up for The Microsoft
+Network, double-click the icon for The Microsoft Network on
+your desktop.
+•
+	
+Using Dial-Up Networking, you can connect to the Internet through
+an Internet access provider or a direct server connection . Then, you
+can use ftp and Telnet (browsing utilities that come with Windows)
+to connect to various Internet sites. Or you can use other Windowsbased
+programs to browse the World Wide Web (WWW) . These
+programs are available from various ftp sites or from software
+vendors.
+More network features
+Here are some other things you may be able to do when you're
+connected to a network :
+•
+	
+Use electronic mail - For more information, look up
+"Microsoft Exchange" in the Help Index . • Create a shortcut to a network resource - For more
+information about shortcuts, see "Putting a Shortcut on
+the Desktop" in Chapter 2, "Beyond the Basics ."
+• Use the Run command to connect to a network resource - For
+more information, see "Starting a Program by Using the Run
+Command," in Chapter 1, "The Basics ."
+C H A P T E R 4
+The Possibilities
+Look here to discover some of the exciting things to do in
+Microsoft Windows 95 . To learn more about a Windows
+feature, look up the topic in Help and you'll be ready to try
+something new.
+If you find that a component described here is not available
+on your computer, see the last section in this chapter .
+Contents
+Having Fun 60
+Maintaining Your System 62
+Optimizing Your Computer 63
+Communicating with the World 64
+Making Your Work Mobile 66
+Using Other Programs 67
+If a Windows Component Isn't Available 68
+5 9
+6 0
+	
+Introducing Microsoft Windows 95
+Having Fun
+Play games
+When you're not working, you can play games or customize the way
+Windows looks . Here are only some of the fun things you can do .
+Explore sound and animation
+Windows provides many multimedia features . You can use CD Player to
+play audio compact discs, Sound Recorder to play or record sounds, or
+Media Player to view animations.
+If you're looking for a fun challenge, try the games that come with
+Windows - for example, Solitaire, one of the most popular card games
+of all time .
+Set up a screen saver
+Screen savers can save wear and tear on your screen and protect your
+See Also
+Flying Windows screen saver
+Change the appearance of Windows
+You can personalize Windows with pictures, patterns, and colors by
+using Control Panel . You can display pictures or patterns as "wallpaper"
+for Windows, or use your own scanned photos . You can also change
+your Windows colors to an existing scheme, or create your own .
+Zigzag wallpaper
+Chapter 4 The Possibilities
+	
+61
+work when you're away from your computer . Several screen savers
+come with Windows.
+62
+	
+Introducing Microsoft Windows 95
+Maintaining Your System
+Windows provides tools that you should use regularly to maintain your
+hard disk. Look for these tools in the System Tools folder, which is
+located in the Accessories folder .
+Back up the information on your disk
+Backing up your files safeguards them against loss if your hard disk fails
+or you accidentally overwrite or delete data .
+Check and repair your disk by using ScanDisk
+ScanDisk can check the files and folders on your hard disk for data
+errors, and it can also check the physical surface of the disk .
+Optimizing Your Computer
+Windows includes several features to improve your computer's
+performance. Look for these tools in the System Tools folder, which
+is located in the Accessories Folder .
+Increase disk space by compressing data
+You can free up space on hard and floppy disks by using DriveSpace
+to compress the data that is on them . If your drive is uncompressed,
+compressing it will generally give you 50 to 100 percent more free
+space .
+Defragment your disk
+Over time, files can become divided into fragments that are stored in
+different locations on your hard disk . These files are complete when you
+open them, but it takes longer for your computer to read from and write
+to them . To defragment your files and speed up performance, use Disk
+Defragmenter.
+Chapter 4 The Possibilities 63
+6 4 Introducing Microsoft Windows 95
+Communicating with the World
+Send and receive faxes
+Windows provides several ways for you to communicate with
+co-workers and friends and with the rest of the world .
+Share information by using electronic mail
+Microsoft Exchange features a universal Inbox where you can send
+and receive electronic mail, and organize, access, and share all types of
+information, including faxes and items from online services .
+You can use Microsoft Fax to send and receive fax messages . All you
+need is a fax modem you can access on a network or one attached to your
+own computer . Incoming faxes appear as messages in your Microsoft
+Exchange Inbox . Microsoft Fax comes with a Cover Page Editor
+(including several sample cover pages) and a Fax Viewer for viewing
+faxes that cannot be edited .
+Connect to other computers
+You can use HyperTerminal and a modem to connect to a remote
+computer that is not running Windows . This enables you to easily
+connect to bulletin boards, host systems, or text-based online services .
+HyperTerminal even configures your modem for you and enables you
+to dial automatically .
+Explore the online world
+Windows 95 also features access to a new online service : The Microsoft
+Network. Using it, you can exchange messages with people around the
+world; read the latest news, sports, weather, and financial information ;
+find answers to your technical questions ; download from a collection of
+thousands of useful programs ; connect to the Internet ; and more!
+Chapter 4 The Possibilities 65
+66
+	
+Introducing Microsoft Windows 95
+Making Your Work Mobile
+Connect two computers by using your modem
+Windows provides some special programs that make taking your work
+with you easy and convenient .
+Update files on two computers
+Sometimes you might work on the same document both at home and at
+work, or use a laptop computer when you travel . Now it's easy to keep
+multiple versions of a file in sync with each other . Just use Briefcase .
+You can use Briefcase whether your computers are connected by a cable
+or you use floppy disks to transfer information .
+With Dial-Up Networking, you can use shared information on another
+computer even if you're not on a network . For example, you can connect
+your home and office computers, and gain access to your office network .
+For more information, see "Using Dial-Up Networking" in Chapter 3,
+"Introducing Networks ."
+Using Other Programs
+This section describes two programs that can help you get your work
+done. To see more, point to Programs on the Start menu, and then point
+to Accessories . For more information, use the Help menu in each
+program.
+Create pictures by using Paint
+You can create, edit, or view pictures by using Paint . You can paste
+pictures into other documents you've created, use them for your desktop
+background, view photos that you have scanned, and more!
+Chapter 4 The Possibilities
+	
+6 7
+Write by using WordPad
+Windows includes a new text editor that you can use to work on short
+documents . Among its features are a toolbar for quick access to common
+tasks, a format bar with buttons for quickly formatting text, and a full
+range of fonts for you to select from .
+6 8
+	
+Introducing Microsoft Windows 95
+If a Windows Component Isn't Available
+You may find that a Windows component described in this chapter isn't
+available on your computer. In most cases, you can install the component
+from your Windows Setup disks . For information on how to do this, look
+up "installing, Windows components" in the Help Index .
+If you don't see the component listed in the Add/Remove Programs
+dialog box, it may be one that is included only with the CD version
+of Windows . In this case, you can download the component from a
+download service, such as CompuServe, The Microsoft Network,
+the Microsoft Download Service, or the Internet .
+Alternatively, you can order a set of fulfillment disks that has the
+component. If you acquired Windows 95 as a retail product, you can
+order fulfillment disks by sending in the coupon at the back of this book .
+If Windows came with your new PC, or if the title page of this book
+reads "For distribution only with a new PC," contact your PC
+manufacturer for more information and support .
+Appendixes
+Contents
+Visual Glossary 70
+Keyboard Shortcuts 75
+Accessibility for People with Disabilities 78
+Troubleshooting 81
+69
+70 Introducing Microsoft Windows 95
+Visual Glossary
+This section explains some terms and basic actions you will encounter in
+Microsoft Windows 95 and in the Windows documentation .
+Using a mouse
+A mouse or other pointing device works on the principle that first you
+place your mouse pointer on (point to) something on your screen, and
+then you click with a mouse button to perform an action on that item .
+Note Windows documentation assumes you have a mouse and are righthanded;
+if you are left-handed, you can switch left and right mouse
+buttons. For information, look up "switching, mouse buttons" in the Help
+Index . Also, if you use a pen device, a mouse "click" corresponds to a
+pen "tap."
+As you move your mouse on a flat surface, the pointer moves on your
+screen . If you run out of room, pick up the mouse and place it in another
+spot .
+To point, move the mouse until the tip of the pointer is over the item or
+area you want to point to . Then you can do the following :
+•
+	
+Click
+Action
+	
+Description
+Click : Press and release the left mouse button once .
+Double-click : Quickly press and release the left mouse
+button twice .
+Click with the right mouse button : Press and release the
+right mouse button once . A shortcut menu appears .
+Appendixes
+	
+7 1
+•
+	
+Drag
+To move an item to another location, first point to it . Press and hold
+down the left or right mouse button, and point to where you want the
+object ; then release the mouse button . You also drag to select text or
+other information in a window . For more information, look up "drag
+and drop" in the Help Index .
+Using the taskbar
+The taskbar, located at the bottom of your screen when you first start
+Windows, contains the Start button . To move the taskbar to a different
+edge of your screen, point to an empty part of the taskbar, and then drag
+it to the location you want .
+Using a dialog box
+Windows displays a dialog box when you must supply information or
+specify options or properties. For example, when you click the Open
+command to open a document, a dialog box enables you to choose the
+one you want. The following is an example of another dialog box .
+7 2 Introducing Microsoft Windows 95
+You can use the following types of options in dialog boxes and when you
+work with the properties for an object :
+Click this
+	
+To do this
+Sizing windows
+You can change a window's size or shape in order to see more than one
+window at a time or to adjust how much of a window's contents you can
+see.
+There are two methods of sizing windows :
+•
+	
+Use the buttons in the upper-right corner of the window .
+Click this
+	
+To do this
+Reduce (minimize) the window to a button on the taskbar .
+Enlarge (maximize) the window to till the desktop .
+Return the window to its previous size . This button
+appears when you maximize the window .
+•
+	
+Move the pointer to the window border . When the pointer changes
+shape, drag the border to enlarge, reduce, or change the shape of the
+window.
+Expand the list of choices . Then click the item you want .
+Select one option at a time . The circle is filled in when the
+option is selected .
+Select more than one option at a time . A check mark appears
+when the option is selected .
+Appendixes
+	
+7 3
+Moving windows
+Moving a window to a different place on the screen can make it easier
+to see more than one window at a time or see something the window is
+covering up .
+To move a window, drag its title bar to a new location .
+Selecting information
+You select (highlight) text or other information before doing something
+to it, such as making it appear bold or copying it to another part of your
+document. To select, place the pointer where you want to begin selecting .
+Then drag the pointer to where you want the selection to end .
+Using toolbars
+Toolbars appear in many programs and provide quick ways to do tasks .
+Most toolbar buttons correspond to a menu command . You can find out
+what each button does by resting your pointer over the button : A box
+appears, displaying the button name .
+74
+	
+Introducing Microsoft Windows 95
+Scrolling
+If a window is not large enough to display all the information, a scroll
+bar appears at the side and/or bottom of the window . You can drag the
+scroll box or click the scroll arrows .
+Keyboard Shortcuts
+General Windows keys
+To
+You can use the following keyboard shortcuts with Windows .
+See Help on the selected dialog box
+item
+Quit a program
+View the shortcut menu for the
+selected item
+Display the Start menu
+Switch to the window you last used .
+Or switch to next window by pressing
+ALT while repeatedly pressing TAB .
+Cut
+Copy
+Paste
+Delete
+Undo
+Bypass auto-play when inserting a
+compact disc
+To
+Rename an item
+Find a folder or file
+Delete immediately without placing
+the item in the Recycle Bin
+View item properties
+Copy a file
+Create a shortcut
+Press
+F1
+ALT+F4
+SHIFT+F10
+CTRL+ESC
+ALT+TAB
+CTRL+X
+CTRL+C
+CTRL+V
+DEL . CTRL+Z
+SHIFT while inserting the CD-ROM
+For the desktop, My Computer, and Windows Explorer
+When an item is selected, you can use the following shortcut keys :
+Press
+F2
+F3
+SHIFT+DEL.
+ALT+ENTER or ALT + double-click
+CTRL key while dragging the file
+CTRL+SHIFI' while dragging the file
+Appendixes
+	
+7 5
+76
+	
+Introducing Microsoft Windows 95
+For My Computer and Windows Explorer
+To
+For properties dialog boxes
+To
+Select all
+Refresh a window
+View the folder one level up
+Close the selected folder and all its
+parent folders
+Switch between left and right panes
+For Windows Explorer only
+To
+Go to
+Switch between left and right panes
+Expand all subfolders under the
+selected folder
+Expand the selected folder
+Collapse the selected folder
+Expand current selection if it's
+collapsed, otherwise select first
+subfolder
+Collapse current selection if it's
+expanded, otherwise select parent
+folder
+Move forward through options
+Move backward through options
+Move forward through tabs
+Move backward through tabs
+Press
+CTRL+A
+F5
+BACKSPACE
+SHIFT while clicking the Close button
+F6
+Press
+CTRL+G
+F6
+NUMLOCK + ASTERISK (' k on numeric
+keypad)
+NUMLOCK + PLUS SIGN (+ on numeric
+keypad)
+NUMLOCK + MINUS SIGN (- on numeric
+keypad)
+RIGHT ARROW
+LEFT ARROW
+Press
+TAB
+SHIFT+TAB
+CTRL+TAB
+CTRL+SHIFT+TAB
+For Open and Save As dialog boxes
+To Press
+Open the Save In or Look In list
+	
+F4
+Refresh F5
+Open the folder one level up, if BACKSPACE
+a folder is selected
+Accessibility Options shortcut keys
+To use Accessibility Options shortcut keys, the shortcut keys must be
+enabled. For more information, look up "Accessibility, shortcut keys"
+in the Help Index .
+To
+	
+Press
+Appendixes 77
+Toggle StickyKeys on and off SHIFT 5 times
+Toggle FilterKeys on and off RIGHT SHIFT for 8 seconds
+Toggle ToggleKeys on and off NUMLOCK for 5 seconds
+Toggle MouseKeys on and off LEFT ALT + LEFT SHIFT + NUMLOCK
+Toggle High Contrast on and off LEFT ALT + LEFT SHIFT + PRINT SCREEN
+78
+	
+Introducing Microsoft Windows 95
+Accessibility for People with Disabilities
+Microsoft is committed to making its products and services easier for
+everyone to use . This section provides information about the following
+features, products, and services, which make Windows more accessible
+for people with disabilities :
+•
+	
+Features in Windows that make using Windows easier for people
+with motion or hearing disabilities
+• Getting information about other products and services for people
+with disabilities
+Windows accessibility features
+Windows includes several accessibility features that provide users who
+are movement or hearing disabled with better access to computers that
+run Windows . These features enable you to change your display, mouse,
+and keyboard features, as well as use sound to help you use Windows
+most effectively .
+For example, if you have trouble using a mouse, you can use the
+MouseKeys feature, which enables you to use the numeric keypad to
+move the mouse pointer . The following illustration shows which keys to
+use.
+TIP
+If these options are not installed,
+you can use the Add/Remove
+Programs icon in Control Panel
+to install them .
+To find these features, double-click the Accessibility Options icon
+in Control Panel . For a more detailed list of procedures, look up
+"accessibility" in the Help Index .
+Customizing Windows
+There are many ways you can adjust the appearance and performance of
+Windows, your mouse, and your keyboard to suit varying vision and
+motor abilities without requiring any additional software or hardware .
+Application note WN 1062 describes the specific methods .
+If you have a modem, you can download application notes from the
+following network services :
+•
+	
+CompuServe@
+•	GEnieTM
+•
+	
+Microsoft OnLine
+• Microsoft Download Service (MSDL), which you can call at (206)
+936-6735 any time except between 1 :00 A.M. and 2 :30 A.M. Pacific
+time. Use the following communications settings .
+For this setting
+	
+Specify
+Baud rate 1200, 2400, 9600, or 14400
+Parity None
+Data bits 8
+Stop bits I
+•
+	
+Various user-group bulletin boards (such as the bulletin-board
+services on the Association of PC User Groups network) . Documentation in alternative formats
+People who have difficulty reading or handling printed documentation
+can obtain most of Microsoft's publications from Recording for the
+Blind, Inc . Recording for the Blind distributes these documents to
+registered, eligible members of their distribution service, either on audio
+cassettes or on floppy disks . More than 80,000 titles are available,
+including Microsoft product documentation and books from Microsoft
+Press . You can contact Recording for the Blind at the following address
+and phone numbers :
+Appendixes
+	
+79
+Recording for the Blind Telephone : (609) 452-0606
+20 Roszel Road
+Princeton, NJ 08540
+Fax : (609) 987-81 16
+80
+	
+Introducing Microsoft Windows 95
+More information for people with disabilities
+For more information about Microsoft products and services for people
+with disabilities, contact :
+The Trace R&D Center at the University of Wisconsin-Madison
+produces a book and a compact disc that describe products that help
+people with disabilities use computers . The book, titled Trace Resource
+Book, provides descriptions and photographs of about 2000 products .
+The compact disc, titled CO-NET CD, provides a database of more than
+18,000 products and other information for people with disabilities . It is
+issued twice a year . To obtain these directories, contact :
+Trace R&D Center
+	
+Voice telephone : (608) 263-2309
+S-151 Waisman Center Text telephone : (608) 263-5408
+1500 Highland Avenue Fax : (608) 262-8848
+Madison, Wl 53705-2280
+For general information and recommendations about how computers can
+help specific individuals, consult a trained evaluator who can best match
+the individual's needs with available solutions . An assistive technology
+program in your area will provide referrals to programs and services that
+are available to you . To locate the assistive technology program nearest
+you, you can contact :
+National Information System (NIS)
+	
+Voice/text telephone :
+Center for Developmental Disabilities (803) 777-4435
+Benson Bldg .
+	
+Fax : (803) 777-6058
+University of South Carolina,
+Columbia, SC 29208
+Microsoft Sales Information Center Voice telephone : (800) 426-9400
+One Microsoft Way Text telephone : (800) 892-5234
+Redmond, WA 98052-6399 Fax: (206) 635-6100
+Troubleshooting
+Appendixes
+	
+81
+This section is designed to help if you encounter problems when using
+Windows 95 .
+Using Help troubleshooters
+To use a troubleshooter, look up "Troubleshooting" in the Help
+Contents, and then follow the step-by-step instructions to resolve the
+problem . The following topics are covered in Help troubleshooters .
+Bypassing your startup files
+If you need to, you can start your computer without loading certain
+components . This is most useful when you are experiencing problems
+starting Windows .
+To start your computer in troubleshooting mode
+Start or restart your computer. After your computer starts,
+Windows displays the following text :
+Starting Windows 95 . . .
+2 While the text is on your screen, press and release the F8 key .
+Windows displays a menu .
+3 Type the number for the option you want, or use the
+DOWN ARROW key to select it, and then press ENTER.
+• If you have trouble printing
+	
+• If you run out of memory
+• If you need more disk space
+	
+• If you have a hardware conflict
+• If you have trouble running If you have trouble using the
+MS-DOS programs network
+• If you have trouble using your If you have trouble using
+modem Dial-Up Networking
+• If you have trouble using Direct If you have trouble using a
+Cable Connection PC card (PCMCIA)
+• If you have trouble starting
+Windows
+8 2
+	
+Introducing Microsoft Windows 95
+The following table explains each of the choices you might see when you
+press F8 at startup .
+Command
+	
+What it does
+Normal Starts Windows normally .
+Logged (\BOOTLOG.TXT) Starts Windows normally, but creates a
+text file called Bootlog .txt located in
+your root directory (top-level folder on
+drive C) . This file contains information
+about which files loaded correctly .
+Safe mode
+	
+Starts Windows with a basic
+configuration instead of your usual
+configuration . Some parts of your system
+might not work as they usually do . After
+Windows starts, you can then make
+changes and restart your computer .
+Safe mode with network support
+	
+Starts Windows with a basic
+configuration but includes network
+capabilities .
+Step-by-step confirmation
+	
+Starts your computer, displaying each
+startup step followed by a prompt . To
+carry out the current command, press
+ENTER. To bypass that command, press
+ESC. This option enables you to load only
+those components you want .
+Command prompt only Starts your computer normally, but does
+not start the Windows interface . You can
+start Windows by typing win.
+Safe mode command prompt only Starts your computer with a basic
+configuration instead of your usual
+configuration, and does not start the
+Windows interface .
+Previous version of MS-DOS
+	
+Starts MS-DOS, using files that were
+backed up during Windows Setup . The
+version of MS-DOS depends on what
+version you were running before
+installing Windows 95 .
+Restoring the registry
+If your registry becomes corrupted, you can restore it by using the
+following procedure . Restoring the registry will replace it with a copy
+of the registry as it was the last time you successfully started your
+computer.
+To restore the
+	
+try
+Start or restart your computer. After your computer starts,
+Windows displays the following text :
+Starting Windows 95 . . . 2 While the text is on your screen, press and release the F8 key .
+A menu appears .
+3 Choose the Command Prompt Only option . 4 At the command prompt, change to your Windows
+directory. For example, if your Windows directory is
+C:\Windows, you would type the following :
+cd c :\windows
+5 Type the following commands, pressing ENTER after
+each one . (Note that System .da0 and User .daO contain
+the number zero .)
+attrib -h -r -s system .dat
+attrib -h -r -s system .daO
+attrib -h -r -s user.dat
+attrib -h -r -s user.daO
+•
+	
+6 If you want to contact product support, type the following
+to create files you can refer to :
+copy system .dat system .bak
+copy user.dat user.bak
+•
+	
+7 Then type :
+copy system .daO system .dat
+copy user.daO user.dat
+•
+	
+8 Restart your computer.
+Appendixes
+	
+83
+84
+	
+Introducing Microsoft Windows 95
+Running MS-DOS programs when you use DriveSpace
+The DriveSpace disk-compression program may use memory needed to
+run certain MS-DOS-based programs . To increase available memory for
+your program, you can start your computer by using the Step-By-Step
+Confirmation option, and choose not to load DriveSpace and only load
+the devices and files needed to run your program .
+For more information about doing this, look up "MS-DOS programs,
+troubleshooting" in the Help Index .
+Note The program and any files needed to run it must be on a host
+(uncompressed) drive . When you choose not to load DriveSpace, you
+cannot load any files from a compressed drive - you will get a message
+that the file is corrupted or cannot be found . See your program's
+documentation to find out what files are required . For more troubleshooting information
+If you have trouble setting up Windows 95, see the Setup .txt file that
+comes with Windows . If you have other trouble, see the Readme .txt
+online document for a list of other readme files you can find information
+in .
+Index
+? (question mark) button, using to get Help 12
+A
+Access control, setting up 50
+Access to your computer, restricting 50
+Accessibility for people with disabilities 78-80
+Accessibility Options shortcut keys 77
+Accessing online services
+by using HyperTerminal 65
+by using Microsoft Exchange 64
+by using The Microsoft Network 65
+Accessing remote computers by using HyperTerminal 65
+Accessing shared resources
+See also Network setup
+mapping drive letters to network resources 55
+opening shared folders 55
+overview of sharing resources 44
+printing from shared printers 55
+using Dial-Up Networking 56-57
+Accessing the Internet 58
+Accessories, where to find 67
+Adapter, setting up 46-47
+Add New Hardware wizard 36
+Add Printer wizard 32
+Add/Remove Programs 35
+Adding
+network software 46-47
+new folders 26
+new hardware 36
+new software 35
+printers 32-33
+shared resources 52-54
+shortcuts
+to the desktop 39
+to the Start Up folder 40-41
+Windows components 68
+Animations, viewing 60
+Applications See Programs
+Arranging open windows 7
+Arrow button on folder toolbars, using 23
+Audio cards, installing 36
+Audio cassettes of documentation, obtaining 79
+Audio compact discs, playing 60
+Autoexec.bat file xiii
+Background pictures and patterns, displaying 61
+Backing up files
+as a regular maintenance procedure 62
+before setting up WindowsIii 95
+Backup, using 62
+Bar at the bottom of the screen See Taskbar
+Blindness and low vision, support services for 79
+Booting your computer in troubleshooting mode 81-82
+Bootlog .txt file 82
+Briefcase, using 66
+Browsing through the network 45
+Bulletin boards, connecting to 65
+Buttons
+See also Start button
+for closing windows xi
+for getting Help information 12
+for quitting programs 6
+for sizing windows 72
+for viewing the previous folder 23
+on the taskbar
+appearing when programs start 5
+using to switch between programs 7
+Bypassing startup files 81-82
+85
+B
+8 6
+	
+Index
+C
+Capturing drive letters See Mapping drive letters
+to network resources
+Cards for new hardware, installing 36
+CDs
+playing 60
+viewing the contents of 20
+Checking for errors in disks, files, and folders 62
+Click, defined 70
+Client for Microsoft Networks 48
+Client for NetWare Networks 48
+Client, defined 48
+Clock on the taskbar . changing settings for 4
+Close button xi, 6
+Closing
+programs 6
+windows xi
+Colors . changing 61
+Commands on shortcut menus, displaying 70
+Communicating over a network
+using Dial-Up Networking 56-57
+using HyperTerminal 65
+using Microsoft Exchange 64
+using Microsoft Fax 64
+using The Microsoft Network 65
+Compact discs
+playing 60
+viewing the contents of 20
+Compact Setup, described xv
+Compressing disks 63
+Computer
+changing system settings 14
+identifying on the network 48-49
+improving the performance of 63
+maintaining 62
+seeing what's on your computer 20-22
+setting up to use a network 46-49
+shortcut to another computer, creating 39
+shutting down 17
+Computer games, playing 60
+Computerized books for the blind See Recording tor the
+Blind . Inc .
+Config .sys file xiii
+Confirming startup commands 82
+Connecting
+to NetWare servers 48
+to online services
+by using HyperTerminal 65
+by using Microsoft Exchange 64
+by using The Microsoft Network 65
+to remote computers, by using HyperTerminal 65
+to shared folders 55
+to the Internet 58
+to your office computer . from home or on the road 56-57
+Contents tab in Help, using to find topics I I
+Control Panel
+starting 14
+using to customize Windows 61
+Controlling access to your computer 50
+Controls, getting Help on 12
+Copying
+tiles or folders
+by dragging 38
+by using the Edit menu 24
+by using the right mouse button 37
+by using the Send To command 27
+information in documents 28-29
+to a floppy disk 27
+Creating
+documents 67
+folders 26
+pictures 67
+shortcuts
+in the StartUp folder 40-41
+on the desktop 39
+Custom Setup, described xv
+Customizing Windows
+adding programs to the Start menu 41
+creating shortcuts on the desktop 39
+starting programs automatically when
+Windows starts 40-41
+using colors, pictures, and patterns 61
+using screen savers 61
+Cutting and pasting
+files or folders 24, 37
+information in documents 28-29
+Definitions of items on the screen, displaying 12
+Defragmenting disks 63
+Deleted files, retrieving or removing from the Recycle Bin 25
+Deleting
+tiles or folders 25
+information in documents 28
+Desktop
+changing the size of windows 72
+customizing colors and background of 61
+items appearing when Windows starts viii
+keyboard shortcuts 75
+Devices
+changing hardware settings 14
+installing 36
+troubleshooting 81
+Dial-Up Networking, setting up 56-57
+Dialing problems, troubleshooting 81
+Dialog boxes
+getting Help on 12
+how to use 71
+using keyboard shortcuts with 76, 77
+Differences between Windows version 3 .1
+and Windows95 ix-xii
+Directories See Folders
+Disabilities, support services for 78-80
+Disk compression 63
+Disk Defragmenter, using 63
+Disk drives See Drives
+Disk space
+for deleted files in the Recycle Bin 25
+increasing by compressing data 63
+troubleshooting 81
+Disks See Drives
+Display, protecting by using a screen saver 61
+Document file type, changing 31
+Document icons, illustrated 21
+Document path, specifying 16
+Documentation on audio cassettes and floppy disks 79
+Documents
+accessing shared documents 55
+backing up 62
+controlling access to 50
+copying
+by dragging 38
+by using the Edit menu 24
+by using the right mouse button 37
+to a floppy disk 27
+copying information in 28-29
+creating in WordPad 67
+deleting 25
+finding 13
+moving
+by dragging 38
+by using the Edit menu 24
+by using the right mouse button 37
+moving information in 28-29
+naming 30
+opening
+by using My Computer 21
+by using shortcuts 39
+by using the Documents menu 9
+by using the Run command 15
+by using Windows Explorer 22
+from within a program 8
+printing 34
+saving 30-31
+selecting information in 28
+sharing 50-52
+shortcuts to, creating 39
+synchronizing versions of 66
+Documents command on the Start menu, using 9
+Double-click, defined 70
+Downloading Windows components 68
+Dragging
+copying or moving files and folders 38
+defined 71
+Drawing tools 67
+Drive letters, mapping to network resources 55
+Index
+	
+8 7
+D
+8 8
+	
+Index
+Drives
+checking for errors 62
+compressing 63
+defragmenting files on 63
+saving files on a different drive 31
+sharing 52
+shortcuts to, creating 39
+viewing the contents of 20-22
+DriveSpace, using 63, 84
+Find command, using 13
+Find tab in Help, using 12
+Finding
+computers 13
+documents or folders 13
+Help topics 11-12
+programs 13
+Fixing disk errors 62
+Floppy disks
+compressing 63
+E-mail, exchanging
+by using Microsoft Exchange 64
+by using The Microsoft Network 65
+Editors
+for pictures 67
+for short documents 67
+Efficient use of Windows 37-41
+Electronic mail messages, exchanging
+by using Microsoft Exchange 64
+by using The Microsoft Network 65
+Ending programs 6
+Enlarging windows to full size 72
+Entire Network icon, using 45
+Erasing
+(files or folders 25
+information in documents 28
+Exchanging messages over a network
+electronic mail 64, 65
+faxes 64
+Explanations of items on the screen, displaying
+Explorer See Windows Explorer
+Faxes, sending and receiving 64
+File icons in folders
+changing the way icons arc displayed 23
+described 21
+File information, viewing 23
+File Manager, Windows 95 equivalent ix
+File path, specifying 16
+File type, changing 31
+Files
+See also Documents
+checking for errors 62
+12
+copying files to 27
+obtaining Microsoft documentation on 79
+saving files on 31
+viewing the contents of 20
+Folder icons, illustrated 21
+Folder windows, working with 23
+Folders
+accessing shared folders 55
+checking for errors 62
+controlling access to 50
+copying
+by dragging 38
+by using the Edit menu 24
+by using the right mouse button 37
+creating 26
+deleting 25
+described 21
+finding 13
+moving
+by dragging 38
+by using the Edit menu 24
+by using the right mouse button 37
+navigating through 20-23
+opening
+by using My Computer 21
+by using Network Neighborhood 55
+by using shortcuts 39
+by using the Run command 15
+by using Windows Explorer 22
+previous folder, going back to 23
+saving files in 3 1
+sharing 50-52
+shortcuts to, creating 39
+viewing the hierarchy of 22
+Fragmentation of files, eliminating 63
+Full path, specifying 16
+Full-text search 12
+G
+Games
+playing Windows games 60
+running MS-DOS programs on a DriveSpace
+compressed drive 84
+Glossary 70
+Green text in Help topics I I
+Groups, appearing as folders ix, 5
+Hard disk See Drives
+Hardware
+changing hardware settings 14
+installing 36
+troubleshooting 81
+Help troubleshooters, using 81
+Help, online 10-12
+Hidden window, switching to 7
+Hierarchy of folders . viewing 22
+Highlighting See Selecting
+HyperTerminal, using 65
+1
+Icons
+for disk drives, defined 20
+for files and folders
+changing the display of 23
+defined 21
+Identifying your computer on the network 48-49
+Inbox for Microsoft Exchange 64
+Index tab in Help, using to look up topics I I
+Installing
+hardware 36
+network software 46-47
+printers 32-33
+software 35, 68
+Windows 95 xiv-xv
+Windows components 68
+Internet, connecting to 58
+Keyboard shortcuts 75-77
+L
+LAN Manager 48
+Laptop computer See Portable computer
+Links to documents and programs See Shortcuts
+Listing files and folders 22, 23
+Locating See Finding
+Location of files, specifying in the path 16
+Logging on to Windows or your network 2
+Long filenames 16
+Looking up topics in Help 11 -12
+Mail messages, exchanging
+by using Microsoft Exchange 64
+by using The Microsoft Network 65
+Mapping drive letters to network resources 55
+Maximizing windows 72
+Media Player, using 60
+Memory, troubleshooting 81
+Messages, exchanging over a network
+electronic mail 64, 65
+faxes 64
+Microsoft Exchange, using 64
+Microsoft Fax, using 64
+Microsoft LAN Manager 48
+Microsoft Network (MSN) 65
+Microsoft Sales Information Center 80
+Microsoft support services for people with disabilities 78-80
+Microsoft Windows95 Resource Kit vii
+Microsoft Windows for Workgroups 48
+Microsoft Windows NT 48
+Microsoft WinNews vii
+Minimizing windows 72
+Modems
+using with Dial-Up Networking 56-57
+using with HyperTenninal 65
+using with Microsoft Fax 64
+using with The Microsoft Network 65
+Index
+	
+89
+H
+K
+90
+	
+Index
+- - -	-------------------------- -------- ------------ - - - - - - --------------------
+Monitor, protecting by using a screen saver 61
+Motion impairment, support services for 78
+Mouse skills 70
+Moving
+files or folders
+by dragging 38
+by using the Edit menu 24
+by using the right mouse button 37
+information in documents 28-29
+the mouse 70
+the taskbar 71
+windows 73
+MS-DOS path, specifying 16
+MS-DOS programs, running on a DriveSpace
+compressed drive 84
+MS-DOS Prompt, starting x
+MS-DOS window, opening x
+MSN (The Microsoft Network) 65
+Multimedia devices, installing 36
+Multimedia features, using 60
+Multiple items, selecting 27
+My Computer
+changing the way items are displayed 23
+copying tiles to a floppy disk 27
+creating new folders 26
+creating shortcuts to documents and programs 39
+deleting files or folders 25
+described viii
+going hack to the previous folder 23
+keyboard shortcuts 75, 76
+moving or copying tiles or folders 24
+opening disk-drive icons 21
+opening documents 21
+seeing what's on your computer 20-2 I
+starting programs 21
+Network clients, described 48
+Network file and print sharing See Sharing resources
+over a network
+Network logon 2
+Network Neighborhood
+described viii
+opening shared folders 55
+viewing computers in your workgroup 45
+Network printers
+setting up 32-33
+using 55
+Network protocol, defined 48
+Network security, setting up 50
+Network service, defined 48
+Network setup 46-48
+Networks
+accessing
+mapping drive letters to network resources 55
+opening shared folders 55
+printing from shared printers 55
+using Dial-Up Networking 56-57
+using HyperTerminal 65
+using Microsoft Exchange 64
+using The Microsoft Network 65
+changing network settings 14
+how to tell if your computer is set up for networking 46
+logging on to 2
+overview of using 44
+viewing computers and resources on 45
+New document, saving 30
+New features in Windows 95 xii
+New folder, creating 26
+NIS See National Information System
+Notebook computer See Portable computer
+Novell NetWare servers
+connecting to 48
+viewing on the network 45
+N
+Naming
+documents 30
+your computer 49
+National Information System (NIS) 80
+NetWare servers
+connecting to 48
+viewing on the network 45
+Network adapter, setting up 46-47
+Online Help, using 10-12
+Online services
+accessing by using HyperTerminal 65
+accessing by using Microsoft Exchange 64
+accessing by using The Microsoft Network 65
+Online tour of Windows 95 vii
+		-------- ----- - - ------------ - ----------- --- - --- - - - - --------------- - ----- - - - --- --- - -------------------- ---------------
+91
+-- - - --------
+Opening
+Control Panel 14
+documents
+by using My Computer 21
+by using shortcuts 39
+by using the Documents menu 9
+by using the Run command 15
+by using Windows Explorer 22
+Permission to use your shared resources, granting 50
+Personalizing Windows See Customizing Windows
+Pictures, displaying in the background 61
+Playing
+games 60
+multimedia files and CDs 60
+Pointers to documents and programs See Shortcuts
+Pointing with the mouse 70
+from within a program 8
+Entire Network 45
+folders
+Pop-up explanations, displaying 12
+Portable computer
+connecting to another computer by using a modem 66
+by using My Computer 21
+by using Network Neighborhood 55
+by using shortcuts 39
+by using the Run command 15
+by using Windows Explorer 22
+MS-DOS windows x
+My Computer 20
+Network Neighborhood 45
+programs
+automatically when Windows starts
+by using My Computer 21
+by using shortcuts 39
+by using the Programs menu 5
+by using the Run command 15
+by using the Start menu 41
+by using Windows Explorer 22
+Windows Explorer 22
+Optimizing your computer 63
+Option boxes See Dialog boxes
+Paint, using 67
+Parts of a window, setting Help on 12
+Password
+logging on to Windows without using 2
+using to log on to Windows 2
+using to protect shared resources 50
+Paste command
+copying or moving files and folders 24,37
+copying or moving information in documents
+Path, how to specify 16
+Patterns, displaying in the background 61
+PC card (PCMCIA), troubleshooting 8 1
+40-41
+29
+setting up Windows for xv
+using with Briefcase 66
+using with Dial-Up Networking 56
+Power . turning off your computer 17
+Print jobs, managing 33
+Print Manager, Windows 95 equivalent x
+Printers
+checking for printers already set up 32
+controlling access to 50
+creating shortcuts to 39
+setting up 32-33
+sharing 53-54
+troubleshooting 34
+using shared printers 55
+Printers folder
+adding printers to 32-33
+described 20
+viewing documents waiting to print 33
+Printing
+documents 34
+managing documents waiting to print 33
+troubleshooting 34
+using shared printers 55
+Program groups, appearing as folders ix . 5
+Program Manager, Windows 95 equivalent ix
+Programs
+adding to the Start menu 41
+adding to the Startup folder 40-41
+finding 13
+how programs get on the Programs menu 6
+installing 35, 68
+quitting 6
+running MS-DOS programs on a DriveSpace
+compressed drive 84
+92
+	
+Index
+Programs ((continued)
+starting
+automatically when Windows starts 40-41
+by using My Computer 21
+by using shortcuts 39
+by using the Programs menu 5
+by using the Run command 15
+by using the Start menu 41
+by using Windows Explorer 22
+switching between 7
+Programs menu
+adding programs to 41
+described 6
+starting programs from 5
+Properties dialog boxes See Dialog boxes
+Property sheets See Dialog boxes
+Protecting
+shared folders and printers 50
+your computer screen 61
+Protocol, defined 48
+Restarting your computer in troubleshooting mode 81-82
+Restoring a window to its previous size 72
+Restoring the registry 83
+Restricting access to your computer 50
+Retrieving deleted files 25
+Right-click, defined 70
+Right mouse button
+using to copy or move files 37
+using to display shortcut menus 70
+using to get Help information 12
+Run command, using 15
+Running programs
+automatically when Windows starts 40-41
+by using My Computer 21
+by using shortcuts 39
+by using the Programs menu 5
+by using the Run command 15
+by using the Start menu 41
+by using Windows Explorer 22
+trouble running MS-DOS programs 81, 84
+Question-mark button, using to get Help 12
+Quitting
+programs 6
+Windows 17
+Readme files 84
+Rearranging open windows 7
+Recording for the Blind, Inc . 79
+Safe mode, starting your computer in 82
+Saving
+backup files 62
+changes to an existing document 30
+copies of files on floppy disks 27
+new documents 30-31
+ScanDisk, using 62
+Screen
+customizing colors and background of 61
+(letting Help on individual window items a
+12
+Recycle Bin viii, 25
+Reducing windows 72
+Registry, restoring 83
+Removing
+files or folders 25
+information in documents 28
+Repairing disk errors 62
+Resizing windows 72
+Resource Kit for Microsoft Windows 95 vii
+items on the screen when Windows starts viii
+Screen savers 61
+Scrolling 74
+Searching for See Finding
+Security for shared folders and printers 50
+Selecting
+information in a document 28
+multiple items in a window 27
+Send To command 27
+Service software, defined 48
+Setting up
+access control for shared resources 50
+Dial-Up Networking 56-57
+hardware 36
+network software 46-47
+printers 32-33
+software 35, 68
+Windows95 xiv-xv
+Windows components 68
+your computer, to use a network 46-49
+Settings for the system, changing 14
+Setup command, using xiv, xv
+Shape of windows, changing 72
+Share-level access control, setting up 50
+Sharing resources over a network
+See also Network setup
+controlling access to shared resources 50
+opening shared folders 55
+overview 44
+printing from shared printers 55
+sharing folders 50-52
+sharing printers 53-54
+viewing shared resources 45
+Shortcut menus, displaying 70
+Shortcuts
+adding to the StartUp folder 40-41
+placing on the desktop 39
+Shutting down your computer 17
+Sight impairment, support services for 79
+Size
+of file and folder icons, changing 23
+of windows, changing 72
+Software, installing 35, 68
+Solitaire card game 60
+Sound and animation 60
+Sound cards, installing 36
+Sound Recorder, using 60
+Space on disks
+for deleted files 25
+increasing by compressing data 63
+Speeding up system performance 63
+Speeding up your work 37-41
+Start button
+adding programs to the Start menu 41
+changing system settings 14
+finding tiles or folders 13
+getting Help information 10
+opening documents from the Documents menu 9
+overview of 3
+setting up Dial-Up Networking 57
+shutting down your computer 17
+starting
+Control Panel 14
+MS-DOS Prompt x
+programs 5, 15
+Windows Explorer 22
+Start menu
+adding programs to 41
+overview of commands on 3
+Starting
+Control Panel 14
+MS-DOS Prompt x
+programs
+automatically when Windows starts 40-4I
+by using My Computer 21
+by using shortcuts 39
+by using the Programs menu 5
+by using the Run command 15
+by using the Start menu 41
+by using Windows Explorer 22
+Windows (logging on) 2
+Windows Explorer 22
+your computer, in troubleshooting mode 81-82
+Startup files, bypassing 81-82
+StartUp folder
+adding programs to 40-41
+described 6
+Switching between windows or running programs 7
+Synchronizing versions of files on two computers 66
+System
+changing system settings 14
+improving the performance of 63
+maintaining 62
+shutting down 17
+troubleshooting 81-84
+System tools 62-63
+Index
+	
+9 3
+94
+	
+Index
+Taskbar
+buttons appearing when programs start 5
+described 2, 4
+moving 71
+reducing windows to taskbar buttons 72
+switching between programs 7
+Telephone numbers
+Microsoft Sales Information Center 8(1
+National Information System (NIS) 80
+Recording (ir the Blind, Inc . 79
+Trace R&D ('enter 80
+Text
+copying, moving, or deleting 2 8
+creating and editing by using WordPad 67
+scrolling 74
+selecting in a document 28
+The Microsoft Network (MSN) 65
+Toolbars
+displaying in folder windows 23
+using to perform tasks quickly 73
+Topics in Help, how to access 10-12
+Tour of Windows 95, online vii
+Trace R&D Center 80
+Tree of folders, viewing 22
+Troubleshooting
+bypassing startup files 81-82
+printing problems 34
+restoring the registry 83
+running MS-DOS programs on a DriveSpace
+compressed drive 84
+using Help troubleshooters 81
+Turning off your computer 17
+U
+Underlined text in Help topics I I
+Updating files on two computers 66
+Upgrading from an earlier version of Windows xiv
+User-level access control, setting up 50
+Viewing
+animations 60
+computers in the entire network 45
+computers in your workgroup 45
+documents waiting to print 33
+hierarchy of folders 22
+My Computer, contents of 20-21
+previous folder 23
+printers that have been set up 32
+resources shared over a network 45
+toolbars 23, 73
+Windows Explorer, contents of 22
+Vision impairment, support services for 79
+Wallpaper, displaying 61
+Window
+changing the size of 72
+closing xi
+Help on parts of a window, displaying 12
+moving 73
+MS-DOS window, opening x
+represented by a button on the taskbar 4
+scrolling information in 74
+switching between windows 7
+Windows 95 operating system
+changing Windows settings 14
+differences from Windows version 3 .1 ix
+information about, where to find vi-vii
+logging onto 2
+new features xii
+quitting 17
+setting up xiv-xv
+troubleshooting 81-84
+using efficiently 37-41
+Windows accessibility features 78
+Windows components, installing 68
+V
+W
+Windows Explorer
+keyboard shortcuts 75, 76
+using 22
+Windows for Workgroups 48
+Windows keyboard shortcuts 75
+Windows NT 48
+Windows version 3 .1
+how Windows 95 differs from ix --xii
+upgrading from xiv
+WinNews vii
+Word processing 67
+WordPad, using 67
+Workgroup, viewing computers in 45
+Writing short documents 67
+x
+X button
+using to close windows xi
+using to quit programs 6
